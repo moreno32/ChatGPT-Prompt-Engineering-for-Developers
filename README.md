@@ -1,52 +1,51 @@
-# Zombie Detection using Object Detection API
+# PromptCraft: Mastering ChatGPT Prompt Engineering
 
 ## 🔄 Overview:
-This project aims to develop a real-time zombie detection system using the Object Detection API and RetinaNet, a state-of-the-art object detection model. The model will be trained using a small dataset of just 5 zombie images, and fine-tuned to improve its performance. The system will be able to detect zombies in images and videos and will provide visual output of the detected zombies.
+Welcome to PromptCraft, a comprehensive course designed by top industry professionals Isa Fulford from OpenAI and Andrew Ng from DeepLearning.AI. In this course, you will delve into the fascinating world of prompt engineering for ChatGPT, gaining the skills and knowledge to leverage large language models (LLMs) to their fullest potential.
 
-![Category and Subcategory](https://img.shields.io/badge/CV%20Computer%20Vision-Clasification%20&%20Detection-blue)
-![Category and Subcategory](https://img.shields.io/badge/Neuronal%20Networks-DCN%20Deep%20Convulutional%20Network-yellow)
+![Category and Subcategory](https://img.shields.io/badge/LLM-OpenAI%20API)
 
 ## 🖼️ Images of the Project:
-<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/Zombie-Detection-using-Object-Detection-API/master/reports/figures/Zombie%20Detection%20using%20Object%20Detection%20API.jpg" width="700" height="526" /><br>
+<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/ChatGPT-Prompt-Engineering-for-Developers/master/reports/figures/PromptCraft.jpg" width="800" height="74" /><br>
 
 ## 🎊 Motivation:
-With the increasing popularity of zombies in popular culture, there is a growing interest in developing systems to detect them. This project aims to contribute to this field by developing a real-time zombies detection system that can be used for various applications such as video games, movies, and theme parks.
+PromptCraft is driven by the recognition that prompt engineering plays a crucial role in unlocking the true power of LLMs. By understanding how to craft effective prompts, you can harness the capabilities of ChatGPT for a wide range of applications. Whether you're interested in summarization, sentiment analysis, topic extraction, translation, grammar correction, or even building custom chatbots, this course will equip you with the essential techniques.
 
 ## 🏁 Learning Objectives:
-1) Understand the basic concepts and techniques of object detection
-2) Learn how to use the TensorFlow Object Detection API and RetinaNet model
-3) Gain experience in training and fine-tuning object detection models
-4) Learn how to evaluate the performance of object detection models
+1) Master the principles and best practices of prompt engineering
+2) Develop the ability to write effective prompts systematically
+3) Gain hands-on experience in building a custom chatbot
+4) Explore real-world examples and case studies to deepen your understanding
+5) Enhance your skills in summarization, inference, text transformation, and expansion using LLMs
 
 ## ⚙️ Technical Aspects:
-The project will use the Object Detection API and RetinaNet, a state-of-the-art object detection model. The model will be trained using a small dataset of just 5 zombies images and fine-tuned to improve its performance. The system will be able to detect zombies in images and videos, and will provide visual output of the detected zombies.
+PromptCraft offers a practical approach to prompt engineering, emphasizing the hands-on experience. Through a Jupyter notebook environment, you will engage with numerous examples, allowing you to experiment and fine-tune your prompt engineering skills. The course blends theoretical knowledge with practical application, ensuring you have a solid foundation in utilizing LLM APIs for various tasks.
 
 ## 🧰 Technology used:
-The project will use the Object Detection API, RetinaNet, matplotlib, os, random, zipfile, io, scipy, numpy, glob, imageio, six, PIL, Ipython, and tensorflow.
+· OpenAI API
+· Jupyter notebook environment
 
 ## 📚 Data Source:
-The project will use a small dataset of just 5 zombies images for training.
+The course materials in PromptCraft utilize a curated collection of datasets tailored to each learning objective. These datasets have been carefully selected to provide diverse and relevant examples for prompt engineering exercises.
 
 ## 🗂️ Project Structure:
-The project will consist of the following stages.
-1) Import Object Detection API packages.
-2) Data Preparation & Cleaning.
-3) Visualize the training images.
-4) Modeling.
-5) Model Evaluation.
-6) View and save results.
+· Summarizing (e.g., summarizing user reviews for brevity)
+· Inferring (e.g., sentiment classification, topic extraction)
+· Transforming text (e.g., translation, spelling & grammar correction)
+· Expanding (e.g., automatically writing emails)
+· In addition, you’ll learn two key principles for writing effective prompts, how to systematically engineer good prompts, and also learn to build a custom chatbot. 
 
 ## 👥 Credits:
-The Object Detection API and RetinaNet model were developed by the TensorFlow team. The project structure and implementation is inspired by the TensorFlow Object Detection API tutorial.
+PromptCraft is a collaborative effort between Isa Fulford from OpenAI and Andrew Ng from DeepLearning.AI. The course content and materials have been meticulously crafted by a team of experts in the field of natural language processing and data science.
 
 ## 🔗 Links:
-**Github repository** - https://github.com/moreno32/Zombie-Detection-using-Object-Detection-API
+**Github repository** - https://github.com/moreno32/ChatGPT-Prompt-Engineering-for-Developers
 
 **TensorFlow Object Detection API** - https://github.com/tensorflow/models/tree/main/research/object_detection
 
 **RetinaNet** - https://github.com/fizyr/keras-retinanet
 
-**Link to Repository**: https://github.com/moreno32/ResNet50-Transfer-Learning-on-the-CIFAR-10-Dataset
+**Link to Repository**: https://github.com/moreno32/ChatGPT-Prompt-Engineering-for-Developers
 
 ## 🙋‍♂️ Contact me:
 <a href= mailto:danielmoreno3291@gmail.com> <img align="center" alt="Abhishek's LinkedIN" width="32px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" >
